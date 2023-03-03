@@ -1,0 +1,51 @@
+,Date,Customer ID,Customer Age,Customer Gender,Country,State,Product Category,Sub Category,Product,Order Quantity,Unit Cost,Unit Price,Cost,Revenue,Year,Month
+0,2013-11-26,11019,19,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45.0,120.0,360,960.0,2013,11
+1,2015-11-26,11019,19,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45.0,120.0,360,960.0,2015,11
+2,2014-03-23,11039,49,M,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45.0,120.0,1035,2760.0,2014,3
+3,2016-03-23,11039,49,M,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,20,45.0,120.0,900,2400.0,2016,3
+4,2014-05-15,11046,47,F,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45.0,120.0,180,480.0,2014,5
+5,2016-05-15,11046,47,F,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45.0,120.0,225,600.0,2016,5
+6,2014-05-22,11047,47,F,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45.0,120.0,180,480.0,2014,5
+7,2016-05-22,11047,47,F,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45.0,120.0,90,240.0,2016,5
+8,2014-02-22,11094,35,M,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45.0,120.0,990,2640.0,2014,2
+9,2016-02-22,11094,35,M,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,21,45.0,120.0,945,2520.0,2016,2
+10,2013-07-30,11101,32,F,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45.0,120.0,360,960.0,2013,7
+11,2015-07-30,11101,32,F,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45.0,120.0,360,960.0,2015,7
+12,2013-07-15,11109,34,M,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45.0,120.0,315,840.0,2013,7
+13,2015-07-15,11109,34,M,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45.0,120.0,315,840.0,2015,7
+14,2013-08-02,11176,29,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45.0,120.0,225,600.0,2013,8
+15,2015-08-02,11176,29,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45.0,120.0,315,840.0,2015,8
+16,2013-09-02,11176,29,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45.0,120.0,90,240.0,2013,9
+17,2015-09-02,11176,29,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45.0,120.0,45,120.0,2015,9
+18,2014-01-22,11176,29,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45.0,120.0,45,120.0,2014,1
+19,2016-01-22,11176,29,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45.0,120.0,45,120.0,2016,1
+21,2014-05-17,11176,29,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45.0,120.0,270,720.0,2014,5
+22,2016-05-17,11176,29,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45.0,120.0,360,960.0,2016,5
+23,2014-03-27,11196,51,M,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45.0,120.0,405,1080.0,2014,3
+24,2016-03-27,11196,51,M,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45.0,120.0,315,840.0,2016,3
+25,2013-08-25,11203,49,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45.0,120.0,135,360.0,2013,8
+27,2015-08-25,11203,49,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45.0,120.0,45,120.0,2015,8
+28,2013-12-26,11203,49,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45.0,120.0,270,720.0,2013,12
+29,2015-12-26,11203,49,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45.0,120.0,225,600.0,2015,12
+30,2014-01-02,11211,48,F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45.0,120.0,180,480.0,2014,1
+31,2016-01-02,11211,48,F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45.0,120.0,180,480.0,2016,1
+32,2014-03-13,11211,48,F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,20,45.0,120.0,900,2400.0,2014,3
+34,2016-03-13,11211,48,F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45.0,120.0,990,2640.0,2016,3
+35,2014-05-23,11215,47,F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,24,45.0,120.0,1080,2880.0,2014,5
+36,2016-05-23,11215,47,F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45.0,120.0,1035,2760.0,2016,5
+37,2013-07-19,11259,32,F,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45.0,120.0,405,1080.0,2013,7
+38,2015-07-19,11259,32,F,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45.0,120.0,405,1080.0,2015,7
+39,2013-11-11,11277,34,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,25,45.0,120.0,1125,3000.0,2013,11
+40,2015-11-11,11277,34,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45.0,120.0,1035,2760.0,2015,11
+42,2013-07-13,11295,43,F,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45.0,120.0,450,1200.0,2013,7
+43,2015-07-13,11295,43,F,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45.0,120.0,450,1200.0,2015,7
+44,2014-03-31,11295,43,F,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45.0,120.0,495,1320.0,2014,3
+45,2016-03-31,11295,43,F,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45.0,120.0,495,1320.0,2016,3
+46,2013-08-28,11299,61,M,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45.0,120.0,360,960.0,2013,8
+47,2015-08-28,11299,61,M,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45.0,120.0,450,1200.0,2015,8
+48,2013-08-27,11330,57,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45.0,120.0,90,240.0,2013,8
+49,2015-08-27,11330,57,M,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45.0,120.0,45,120.0,2015,8
+50,2013-11-17,11331,29,F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45.0,120.0,540,1440.0,2013,11
+51,2015-11-17,11331,29,F,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,14,45.0,120.0,630,1680.0,2015,11
+52,2013-08-07,11380,38,M,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45.0,120.0,135,360.0,2013,8
+54,2015-08-07,11380,38,M,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45.0,120.0,45,120.0,2015,8
